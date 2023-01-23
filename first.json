@@ -1,0 +1,16 @@
+{
+  "params": {
+    "method": "GET",
+    "url": "http://google.com",
+    "version": 1.1
+  },
+  "headers": [
+    {
+      "content-type": "application/json"
+    },
+    {
+      "Keep-Alive": true
+    }
+  ],
+  "body": "{}"
+}
